@@ -107,31 +107,6 @@ The model performance is evaluated using:
 
 ---
 
-## Project Structure
-
-```
-power-plant-energy-prediction/
-
-│── data/
-│     └── Folds5x2_pp.xlsx
-
-│── notebooks/
-│     └── power_plant_energy_prediction_ann.ipynb
-
-│── models/
-│     └── best_model.pt
-
-│── images/
-│     ├── training_loss.png
-│     └── prediction_plot.png
-
-│── requirements.txt
-
-│── README.md
-```
-
----
-
 ## Results
 
 | Metric | Value |
