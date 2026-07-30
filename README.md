@@ -1,4 +1,3 @@
-# power-plant-energy-prediction-pytorch
 # Power Plant Energy Prediction using Artificial Neural Networks
 
 ## Overview
