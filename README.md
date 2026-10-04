@@ -4,9 +4,6 @@
 
 **Predicting Combined Cycle Power Plant Energy Output with Deep Learning**
 
-<br>
-
-
 </p>
 
 ---
