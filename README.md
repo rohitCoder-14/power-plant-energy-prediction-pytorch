@@ -2,7 +2,8 @@
 
 <p align="center">
 
-**Predicting Combined Cycle Power Plant Energy Output with Deep Learning**
+**Predicting Combined Cycle Power Plant Energy Output with Deep Learning.**
+
 
 </p>
 
