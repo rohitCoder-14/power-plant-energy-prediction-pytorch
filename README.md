@@ -456,7 +456,7 @@ Through this project, I gained practical experience with:
 
 ### Rohit Singh Rawat
 
-🎓 **MCA — Data Science**
+🎓 **MCA — AI & Data Science**
 
 <p>
   <a href="https://github.com/rohitCoder-14">
